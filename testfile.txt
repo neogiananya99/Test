@@ -2,3 +2,5 @@ Line 1
 Line 2
 Feature line 1
 feature line 2
+merge line1
+merge line2
